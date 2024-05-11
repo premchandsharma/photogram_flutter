@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984101449867",
+    "project_id": "photogram-prem",
+    "storage_bucket": "photogram-prem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984101449867:android:8bab91133d6ac48d79e48e",
+        "android_client_info": {
+          "package_name": "com.example.photogram_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsn7KKngmM_C_BW6iOKeKFeOrzfsFZJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
